@@ -11,6 +11,8 @@
 - **完整版**：640×360 VP9 透明 WebM，CRF 32 + sharpness 2 + cpu-used 2
 - **Lite**：480×270 VP9 透明 WebM，CRF 42，供 Lite 版应用自动选择
 
+应用内下载会自动探测直连与 ghfast / gh-proxy / ghproxy 等镜像的速度，优先走最快线路，失败时自动切换。
+
 | 形象 | 资产前缀 | 完整版 | Lite | 动作数 |
 | --- | --- | ---: | ---: | ---: |
 | 大肥鱼 plus | `dsh1-` | 193.1 MiB | 49.4 MiB | 167 |
