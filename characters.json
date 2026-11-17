@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T11:22:39Z",
+  "generatedAt": "2026-11-17T11:37:53Z",
   "packs": [
     {
       "id": "dsh1",
@@ -10,11 +10,11 @@
       "zip": "dsh1-full.zip",
       "zipBytes": 202450032,
       "plusFor": "v1",
-      "cover": "https://ghproxy.net/https://raw.githubusercontent.com/shenliuyu18/dafeiyu-pet-assets/main/covers/dsh1.webp",
-      "url": "https://ghproxy.net/https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/dsh1-full.zip",
+      "cover": "https://raw.githubusercontent.com/shenliuyu18/dafeiyu-pet-assets/main/covers/dsh1.webp",
+      "url": "https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/dsh1-full.zip",
       "liteZip": "dsh1-lite.zip",
       "liteZipBytes": 51753148,
-      "liteUrl": "https://ghproxy.net/https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/dsh1-lite.zip"
+      "liteUrl": "https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/dsh1-lite.zip"
     },
     {
       "id": "gptv1",
@@ -24,11 +24,11 @@
       "zip": "gptv1-full.zip",
       "zipBytes": 2258386,
       "plusFor": "",
-      "cover": "https://ghproxy.net/https://raw.githubusercontent.com/shenliuyu18/dafeiyu-pet-assets/main/covers/gptv1.webp",
-      "url": "https://ghproxy.net/https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/gptv1-full.zip",
+      "cover": "https://raw.githubusercontent.com/shenliuyu18/dafeiyu-pet-assets/main/covers/gptv1.webp",
+      "url": "https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/gptv1-full.zip",
       "liteZip": "gptv1-lite.zip",
       "liteZipBytes": 2258386,
-      "liteUrl": "https://ghproxy.net/https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/gptv1-lite.zip"
+      "liteUrl": "https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/gptv1-lite.zip"
     },
     {
       "id": "claude",
@@ -38,11 +38,11 @@
       "zip": "claude-full.zip",
       "zipBytes": 118704408,
       "plusFor": "",
-      "cover": "https://ghproxy.net/https://raw.githubusercontent.com/shenliuyu18/dafeiyu-pet-assets/main/covers/claude.webp",
-      "url": "https://ghproxy.net/https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/claude-full.zip",
+      "cover": "https://raw.githubusercontent.com/shenliuyu18/dafeiyu-pet-assets/main/covers/claude.webp",
+      "url": "https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/claude-full.zip",
       "liteZip": "claude-lite.zip",
       "liteZipBytes": 25516545,
-      "liteUrl": "https://ghproxy.net/https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/claude-lite.zip"
+      "liteUrl": "https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/claude-lite.zip"
     },
     {
       "id": "gemini",
@@ -52,11 +52,11 @@
       "zip": "gemini-full.zip",
       "zipBytes": 86150325,
       "plusFor": "",
-      "cover": "https://ghproxy.net/https://raw.githubusercontent.com/shenliuyu18/dafeiyu-pet-assets/main/covers/gemini.webp",
-      "url": "https://ghproxy.net/https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/gemini-full.zip",
+      "cover": "https://raw.githubusercontent.com/shenliuyu18/dafeiyu-pet-assets/main/covers/gemini.webp",
+      "url": "https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/gemini-full.zip",
       "liteZip": "gemini-lite.zip",
       "liteZipBytes": 19216011,
-      "liteUrl": "https://ghproxy.net/https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/gemini-lite.zip"
+      "liteUrl": "https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/gemini-lite.zip"
     },
     {
       "id": "glm",
@@ -66,11 +66,11 @@
       "zip": "glm-full.zip",
       "zipBytes": 90655083,
       "plusFor": "",
-      "cover": "https://ghproxy.net/https://raw.githubusercontent.com/shenliuyu18/dafeiyu-pet-assets/main/covers/glm.webp",
-      "url": "https://ghproxy.net/https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/glm-full.zip",
+      "cover": "https://raw.githubusercontent.com/shenliuyu18/dafeiyu-pet-assets/main/covers/glm.webp",
+      "url": "https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/glm-full.zip",
       "liteZip": "glm-lite.zip",
       "liteZipBytes": 20408603,
-      "liteUrl": "https://ghproxy.net/https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/glm-lite.zip"
+      "liteUrl": "https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/glm-lite.zip"
     },
     {
       "id": "gpt",
@@ -80,11 +80,11 @@
       "zip": "gptv2-full.zip",
       "zipBytes": 101690201,
       "plusFor": "",
-      "cover": "https://ghproxy.net/https://raw.githubusercontent.com/shenliuyu18/dafeiyu-pet-assets/main/covers/gptv2.webp",
-      "url": "https://ghproxy.net/https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/gptv2-full.zip",
+      "cover": "https://raw.githubusercontent.com/shenliuyu18/dafeiyu-pet-assets/main/covers/gptv2.webp",
+      "url": "https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/gptv2-full.zip",
       "liteZip": "gptv2-lite.zip",
       "liteZipBytes": 22169861,
-      "liteUrl": "https://ghproxy.net/https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/gptv2-lite.zip"
+      "liteUrl": "https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/gptv2-lite.zip"
     },
     {
       "id": "grok",
@@ -94,11 +94,11 @@
       "zip": "grok-full.zip",
       "zipBytes": 93396999,
       "plusFor": "",
-      "cover": "https://ghproxy.net/https://raw.githubusercontent.com/shenliuyu18/dafeiyu-pet-assets/main/covers/grok.webp",
-      "url": "https://ghproxy.net/https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/grok-full.zip",
+      "cover": "https://raw.githubusercontent.com/shenliuyu18/dafeiyu-pet-assets/main/covers/grok.webp",
+      "url": "https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/grok-full.zip",
       "liteZip": "grok-lite.zip",
       "liteZipBytes": 22165313,
-      "liteUrl": "https://ghproxy.net/https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/grok-lite.zip"
+      "liteUrl": "https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/grok-lite.zip"
     },
     {
       "id": "kimi",
@@ -108,11 +108,11 @@
       "zip": "kimi-full.zip",
       "zipBytes": 75530686,
       "plusFor": "",
-      "cover": "https://ghproxy.net/https://raw.githubusercontent.com/shenliuyu18/dafeiyu-pet-assets/main/covers/kimi.webp",
-      "url": "https://ghproxy.net/https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/kimi-full.zip",
+      "cover": "https://raw.githubusercontent.com/shenliuyu18/dafeiyu-pet-assets/main/covers/kimi.webp",
+      "url": "https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/kimi-full.zip",
       "liteZip": "kimi-lite.zip",
       "liteZipBytes": 19152882,
-      "liteUrl": "https://ghproxy.net/https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/kimi-lite.zip"
+      "liteUrl": "https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/kimi-lite.zip"
     },
     {
       "id": "qwen",
@@ -122,11 +122,11 @@
       "zip": "qwen-full.zip",
       "zipBytes": 83735825,
       "plusFor": "",
-      "cover": "https://ghproxy.net/https://raw.githubusercontent.com/shenliuyu18/dafeiyu-pet-assets/main/covers/qwen.webp",
-      "url": "https://ghproxy.net/https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/qwen-full.zip",
+      "cover": "https://raw.githubusercontent.com/shenliuyu18/dafeiyu-pet-assets/main/covers/qwen.webp",
+      "url": "https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/qwen-full.zip",
       "liteZip": "qwen-lite.zip",
       "liteZipBytes": 20205972,
-      "liteUrl": "https://ghproxy.net/https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/qwen-lite.zip"
+      "liteUrl": "https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/download/packs-2026-11/qwen-lite.zip"
     }
   ]
 }
