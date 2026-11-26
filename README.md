@@ -4,7 +4,7 @@
 
 ## 下载
 
-当前 Release：[packs-2026-11](https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/tag/packs-2026-11)
+当前 Release：[Character pack 1.0.1](https://github.com/shenliuyu18/dafeiyu-pet-assets/releases/tag/packs-1.0.1)
 
 每个形象提供两种规格：
 
